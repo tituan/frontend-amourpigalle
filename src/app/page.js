@@ -6,7 +6,7 @@ export default function Home() {
     <main className={styles.container}>
       <h1>
         <Image
-          src="/img/amourpigalle02.png"
+          src="/img/amourpigalle-logo2.svg"
           alt="Logo Amour Pigalle"
           width={1200}
           height={800}

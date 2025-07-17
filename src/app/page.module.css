@@ -4,14 +4,15 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #FEFEFE;
+  background-color: #EFECE8;
 }
 
 .logo {
-  max-height: 70vh;
-  max-width: 80vw;
+  max-height: 60vh;
+  max-width: 50vw;
   height: auto;
   object-fit: contain;
   display: block;
   margin: 0 auto;
+  color: red;
 }
